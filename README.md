@@ -6,10 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hi there, I'm Leonardo 👋</h1>
-
-<h3 align="center">💻 Full Stack Developer Student from Brazil 🇧🇷</h3>
-
 ---
 
 ## 🚀 About Me
