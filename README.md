@@ -6,5 +6,6 @@
     height="720"
   />
 </div>
+---
 ## Abbout Me
-** I'm Leonardo, a programming student from Brazil passionate about technology. I'm currently learning HTML, CSS, JavaScript, TypeScript, React, Python, and SQL, building projects to improve my skills. My goal is to become a Full Stack Developer and build my own technology company in the future. 
+**I'm Leonardo, a programming student from Brazil passionate about technology. I'm currently learning HTML, CSS, JavaScript, TypeScript, React, Python, and SQL, building projects to improve my skills. My goal is to become a Full Stack Developer and build my own technology company in the future. 
